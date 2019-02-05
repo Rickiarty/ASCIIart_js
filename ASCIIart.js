@@ -2,7 +2,7 @@
  * 
  *  Written by Lucius Lin in Taipei in Taiwan on 2015.12.25(Fri.). 
  * 
-*/
+ */
 
 var L = parseInt(readline());
 var H = parseInt(readline());
